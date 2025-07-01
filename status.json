@@ -1,6 +1,6 @@
 {
     "status": "activate",
-    "latest_version": "2.0.0",
+    "latest_version": "beta 2.0",
     "allowed_versions": [
         "1.0.0",
         "beta 2.0"
