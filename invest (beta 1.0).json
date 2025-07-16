@@ -1,0 +1,8 @@
+{
+    "status": "activate",
+    "latest_version": "beta 1.0",
+    "allowed_versions": [
+        "beta 1.0"
+    ],
+    "cost_limit": 40
+}
